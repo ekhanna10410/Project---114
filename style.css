@@ -1,0 +1,8 @@
+body {
+    color: aliceblue;
+}
+
+canvas {
+    border: 2px;
+    border-color: black;
+}
